@@ -1,0 +1,15 @@
+{
+  "background_color": "black",
+  "description": "Rooster Poedercoat afdeling",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Rooster Poedercoat",
+  "short_name": "Rooster",
+  "start_url": "/pwa-examples/a2hs/index.html"
+}
