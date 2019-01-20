@@ -2,10 +2,10 @@ self.addEventListener('install', function(e) {
  e.waitUntil(
    caches.open('rooster-v1').then(function(cache) {
      return cache.addAll([
-       '/pwa-examples/a2hs/',
-       '/pwa-examples/a2hs/index.html',
-       '/pwa-examples/a2hs/index.js',
-       '/pwa-examples/a2hs/style.css'
+       '/rooster/',
+       '/rooster/index.html',
+       '/rooster/index.js',
+       '/rooster/style.css'
      ]);
    })
  );
