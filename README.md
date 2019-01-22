@@ -1,5 +1,8 @@
-# PWA work schedule
+# Progressive Web App
+## Work Schedule
 
-https://michaelhoner.github.io/rooster/
+Demo: https://michaelhoner.github.io/rooster/
 
-HTML5,CSS3,JS,BOOTSTRAP4,PWA
+### Technologies
+
+Composed of HTML, CSS, JavaScript and Bootstrap4
