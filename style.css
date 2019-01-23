@@ -1,4 +1,4 @@
-body {
+section {
   padding-top: 200px;
 }
 
@@ -41,7 +41,7 @@ h1 {
   html {
     font-size: 4vw;
   }
-  body {
+  section {
     padding-top: 60vw;
   }
 }
